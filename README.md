@@ -1,2 +1,3 @@
-# Modelagem_e_Sistemas_em_Python
-Repositório de Livro
+# Modelagem e Simulação de Sistemas Usando Lógica Fuzzy com Python
+## Teoria e Prática
+### Prof. Jorge Zavaleta, D.Sc.
