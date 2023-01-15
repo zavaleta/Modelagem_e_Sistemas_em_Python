@@ -1,5 +1,6 @@
 # Modelagem e Simulação de Sistemas Usando Lógica Fuzzy com Python
 >## Teoria e Prática
+>### Jorge Zavaleta
 
 ---
 
