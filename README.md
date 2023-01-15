@@ -8,7 +8,8 @@
 | Conteúdo                                                 | Jupyter link  |
 | -------------------------------------------------------- | --------------|
 | - Capítulo 1: Teoria de Conjuntos Clássicos              | [Capítulo 1](capitulo1/teoria_de_conjuntos_c01.ipynb)          |
-| - Capítulo 2: Teoria de Conjuntos Clássicos em Python    |[<img src="imagens/jupyter.png" alt="pdf" width="50"/>](https://github.com/zavaleta/Modelagem_e_Sistemas_em_Python/blob/master/capitulo2/teoria_de_conjuntos_python_c02.ipynb)        |
+| - Capítulo 2: Teoria de Conjuntos Clássicos em Python    |[<img src="imagens/jupyter.png" alt="pdf" width="50"/>]
+(https://github.com/zavaleta/Modelagem_e_Sistemas_em_Python/blob/master/capitulo2/Teoria_de_conjuntos_python_c02.ipynb)        |
 | - Capítulo 3: Teoria de Conjuntos Fuzzy                  | [Capítulo 3](capitulo3/teoria_de_conjuntos_fuzzy_c03.ipynb)          |
 | - Capítulo 4: Teoria de Conjuntos Fuzzy em Python        | [Capítulo 4](capitulo4/teoria_de_conjuntos_fuzzy_python_c04.ipynb)         |
 | - Capítulo 5: Relações Fuzzy                             | Teoria        |
