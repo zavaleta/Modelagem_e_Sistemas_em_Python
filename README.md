@@ -19,5 +19,3 @@
 | - Capítulo 10: Modelagem Fuzzy em Python                 |[<img src="imagens/jupyter.png" alt="pdf" width="60"/>](https://github.com/zavaleta/Modelagem_e_Sistemas_em_Python/blob/master/capitulo10/modelagem_fuzzy_em_python_c10.ipynb)          |
 ---
 ##### Copyrights &copy; Jorge Zavaleta, 2023
-https://github.com/zavaleta/Modelagem_e_Sistemas_em_Python/blob/master/capitulo1/Teoria_de_conjuntos_c01.ipynb
-https://github.com/zavaleta/Modelagem_e_Sistemas_em_Python/blob/master/capitulo2/Teoria_de_conjuntos_python_c02.ipynb
