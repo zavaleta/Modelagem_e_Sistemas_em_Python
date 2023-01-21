@@ -26,9 +26,9 @@ Este livro xxxxxxxxxxxxxxx
 ### Dados do livro:
 > **Autor**: **Jorge Zavaleta** - [Lattes](http://lattes.cnpq.br/5989368756609995) - [ORCID](https://orcid.org/0000-0002-4747-8613)
 > **ISBN**: xxxxxxxxx
-
+>
 > **Número de páginas**: 140
-
+>
 > **Editora**: Cerceau
 
 ---
