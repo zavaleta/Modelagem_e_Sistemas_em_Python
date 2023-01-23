@@ -1,12 +1,11 @@
-# Modelagem e Simulação de Sistemas Usando Lógica Fuzzy com Python
->## Teoria e Prática
-
 ---
-
 ![book](imagens/title_book.png)
 ---
+<center>DOI[]()</center>
 
->Este livro tem por objetivo apresentar alguns aspectos básicos e aplicações sobre a teoria de conjuntos fuzzy na linguagem Python aplicada em diversas áreas do conhecimento do saber humano. Ilustrando que a teoria de conjuntos fuzzy não se restringe exclusivamente às ciências formais, seu alcance supera balizadores tradicionais e pode auxiliar na modelagem de questões da vida prática nos mais variados contextos. 
+---
+
+>**Este livro tem por objetivo apresentar alguns aspectos básicos e aplicações sobre a teoria de conjuntos fuzzy na linguagem Python aplicada em diversas áreas do conhecimento do saber humano. Ilustrando que a teoria de conjuntos fuzzy não se restringe exclusivamente às ciências formais, seu alcance supera balizadores tradicionais e pode auxiliar na modelagem de questões da vida prática nos mais variados contextos**.
 
 ---
 | Conteúdo                                                 | Jupyter link  |
@@ -33,7 +32,21 @@
 
 ---
 
-##### Contato: zavaleta.jorge@gmail.com
+### Software
+> **Os requisitos de software para práticas e exemplos de código no livro**
+
+| software         | configuração    | versão         |  site para download  |
+|:-----------------|:---------------:|----------------|:--------------------|
+| Python(anaconda) | requerido       | 3.7 o superior |  [Anaconda](https://www.anaconda.com/products/distribution)|
+| jupyter notebook | requerido       | Instalado com anaconda | site anaconda  |
+| jupyterlab       | opcional        | Instalado com anaconda  | site anaconda |
+| scikit-fuzzy     | requerido       |     0.2        |  [scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/overview.html) |
+
+---
+
+#### Contato:
+> [Jorge Zavaleta (GMAIL)](mailto:zavaleta.jorge@gmail.com)
+> [Zavaleta (UFRRJ)](mailto:zavaleta@pet-si.ufrrj.br)
 
 ---
 ##### Copyrights &copy; Jorge Zavaleta, 2023
