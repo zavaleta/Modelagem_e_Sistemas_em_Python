@@ -1,7 +1,7 @@
 ---
 ![book](imagens/title_book.png)
 ---
-<center>DOI[]()</center>
+<center>DOI:x.x</center>
 
 ---
 
@@ -46,6 +46,7 @@
 
 #### Contato:
 > [Jorge Zavaleta (GMAIL)](mailto:zavaleta.jorge@gmail.com)
+>
 > [Zavaleta (UFRRJ)](mailto:zavaleta@pet-si.ufrrj.br)
 
 ---
