@@ -51,7 +51,7 @@
 >
 > [Zavaleta (UFRRJ)](mailto:zavaleta@pet-si.ufrrj.br)
 
-[retornar ao índice]((https://github.com/zavaleta/Modelagem_e_Sistemas_em_Python/blob/master/readme.md)
+[retornar ao índice](https://github.com/zavaleta/Modelagem_e_Sistemas_em_Python/blob/master/README.md)
 
 ---
 ##### Copyrights &copy; Jorge Zavaleta, 2023
