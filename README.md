@@ -1,7 +1,7 @@
 ---
 ![book](imagens/title_book.png)
 ---
-<center>[DOI](https://dx.doi.org/10.17655/9786500695496)</center>
+<center>DOI: https://dx.doi.org/10.17655/9786500695496 </center>
 
 ---
 
