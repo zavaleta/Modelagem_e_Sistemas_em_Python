@@ -1,11 +1,13 @@
 ---
 ![book](imagens/title_book.png)
 ---
-<center>DOI:x.x</center>
+<center>[DOI](https://dx.doi.org/10.17655/9786500695496)</center>
 
 ---
 
 >**Este livro tem por objetivo apresentar alguns aspectos básicos e aplicações sobre a teoria de conjuntos fuzzy na linguagem Python aplicada em diversas áreas do conhecimento do saber humano. Ilustrando que a teoria de conjuntos fuzzy não se restringe exclusivamente às ciências formais, seu alcance supera balizadores tradicionais e pode auxiliar na modelagem de questões da vida prática nos mais variados contextos**.
+
+<center>[DOI]()</center>
 
 ---
 | Conteúdo                                                 | Jupyter link  |
@@ -24,7 +26,7 @@
 ### Dados do livro:
 > **Autor**: **Jorge Zavaleta** - [Lattes](http://lattes.cnpq.br/5989368756609995) - [ORCID](https://orcid.org/0000-0002-4747-8613)
 >
-> **ISBN**: xxxxxxxxx
+> **ISBN**: 9786500695496
 >
 > **Número de páginas**: 140
 >
@@ -48,6 +50,8 @@
 > [Jorge Zavaleta (GMAIL)](mailto:zavaleta.jorge@gmail.com)
 >
 > [Zavaleta (UFRRJ)](mailto:zavaleta@pet-si.ufrrj.br)
+
+[retornar ao índice]((https://github.com/zavaleta/Modelagem_e_Sistemas_em_Python/blob/master/readme.md)
 
 ---
 ##### Copyrights &copy; Jorge Zavaleta, 2023
