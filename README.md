@@ -1,7 +1,7 @@
 ---
 ![book](imagens/title_book.png)
 ---
-<center>DOI: https://dx.doi.org/10.17655/9786500695496 </center>
+<center><a href="https://doi.org/10.5281/zenodo.8172402"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8172402.svg" alt="DOI"></a></center>
 
 ---
 
