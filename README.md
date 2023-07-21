@@ -7,7 +7,7 @@
 
 >**Este livro tem por objetivo apresentar alguns aspectos básicos e aplicações sobre a teoria de conjuntos fuzzy na linguagem Python aplicada em diversas áreas do conhecimento do saber humano. Ilustrando que a teoria de conjuntos fuzzy não se restringe exclusivamente às ciências formais, seu alcance supera balizadores tradicionais e pode auxiliar na modelagem de questões da vida prática nos mais variados contextos**.
 
-<center>[DOI]()</center>
+<center>[Download] https://dx.doi.org/10.17655/9786500695496</center>
 
 ---
 | Conteúdo                                                 | Jupyter link  |
