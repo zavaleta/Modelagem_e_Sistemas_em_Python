@@ -10,7 +10,7 @@
 
 [download] https://dx.doi.org/10.17655/9786500695496
 
-<span class="__dimensions_badge_embed__" data-doi="10.17655/9786500695496" data-legend="always"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.17655/9786500695496" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ---
 | Conteúdo                                                 | Jupyter link  |
